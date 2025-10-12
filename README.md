@@ -1,8 +1,5 @@
 # List of Undergraduate Projects
 
-## Home Automation: AC-Light-Fan Control
-**Course - Robotics and Automation Laboratory**
-
 ## SkyWatch: A Drone Surveillance System for Disaster Management
 **Course - Robotics and Automation Laboratory**
 
@@ -14,6 +11,9 @@
 
 ## Water Level Indicator Using 74 Series IC and 7 Segment Display
 **Course - Digital Electronics Laboratory**
+
+## Home Automation: AC-Light-Fan Control
+**Course - Robotics and Automation Laboratory**
 
 ## Variable DC Battery Charger with Auto Cutoff Feature and Deep Discharge Control
 **Course - Power Electronics Laboratory**
