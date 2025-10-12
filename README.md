@@ -24,17 +24,17 @@
 ## 8. Microcontroller-Based Adaptive Smart Home System for Energy Efficiency and User Comfort
 **Course - Robotics and Automation Laboratory**
 
-## Variable DC Battery Charger with Auto Cutoff Feature and Deep Discharge Control 
+## 9. Variable DC Battery Charger with Auto Cutoff Feature and Deep Discharge Control 
 **Course - Power Electronics Laboratory**
 
-## Detection of Faults in Electrical Power Transmission Line
+## 10. Detection of Faults in Electrical Power Transmission Line
 **Course - Power System I Laboratory**
 
-## Rewinding of 4 Pole 3-Phase Squirrel Cage Induction Motor
+## 11. Rewinding of 4 Pole 3-Phase Squirrel Cage Induction Motor
 **Course - Energy Conversion Laboratory**
 
-## AC Signal Modifier: A Project on Clipping, Clamping & DC Regulation of AC Input Signals. 
+## 12. AC Signal Modifier: A Project on Clipping, Clamping & DC Regulation of AC Input Signals. 
 **Course - Numerical Technique Laboratory**
 
-## Frequency Sweep Analysis of Transistor Amplifiers: MOSFET and BJT Low-Frequency Gain Investigation
+## 13. Frequency Sweep Analysis of Transistor Amplifiers: MOSFET and BJT Low-Frequency Gain Investigation
 **Course - Electronic Circuits I Laboratory**
